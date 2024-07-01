@@ -1,0 +1,14 @@
+C:\Users\tongu\OneDrive\Área de Trabalho\PUC Atividades\(7101100) Algoritmos e Técnicas de Programação\Final ATP\Rascunho\obj\Debug\net8.0\Rascunho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tongu\OneDrive\Área de Trabalho\PUC Atividades\(7101100) Algoritmos e Técnicas de Programação\Final ATP\Rascunho\obj\Debug\net8.0\Rascunho.AssemblyInfoInputs.cache
+C:\Users\tongu\OneDrive\Área de Trabalho\PUC Atividades\(7101100) Algoritmos e Técnicas de Programação\Final ATP\Rascunho\obj\Debug\net8.0\Rascunho.AssemblyInfo.cs
+C:\Users\tongu\OneDrive\Área de Trabalho\PUC Atividades\(7101100) Algoritmos e Técnicas de Programação\Final ATP\Rascunho\obj\Debug\net8.0\Rascunho.csproj.CoreCompileInputs.cache
+C:\Users\tongu\OneDrive\Área de Trabalho\PUC Atividades\(7101100) Algoritmos e Técnicas de Programação\Final ATP\Rascunho\bin\Debug\net8.0\Rascunho.exe
+C:\Users\tongu\OneDrive\Área de Trabalho\PUC Atividades\(7101100) Algoritmos e Técnicas de Programação\Final ATP\Rascunho\bin\Debug\net8.0\Rascunho.deps.json
+C:\Users\tongu\OneDrive\Área de Trabalho\PUC Atividades\(7101100) Algoritmos e Técnicas de Programação\Final ATP\Rascunho\bin\Debug\net8.0\Rascunho.runtimeconfig.json
+C:\Users\tongu\OneDrive\Área de Trabalho\PUC Atividades\(7101100) Algoritmos e Técnicas de Programação\Final ATP\Rascunho\bin\Debug\net8.0\Rascunho.dll
+C:\Users\tongu\OneDrive\Área de Trabalho\PUC Atividades\(7101100) Algoritmos e Técnicas de Programação\Final ATP\Rascunho\bin\Debug\net8.0\Rascunho.pdb
+C:\Users\tongu\OneDrive\Área de Trabalho\PUC Atividades\(7101100) Algoritmos e Técnicas de Programação\Final ATP\Rascunho\obj\Debug\net8.0\Rascunho.dll
+C:\Users\tongu\OneDrive\Área de Trabalho\PUC Atividades\(7101100) Algoritmos e Técnicas de Programação\Final ATP\Rascunho\obj\Debug\net8.0\refint\Rascunho.dll
+C:\Users\tongu\OneDrive\Área de Trabalho\PUC Atividades\(7101100) Algoritmos e Técnicas de Programação\Final ATP\Rascunho\obj\Debug\net8.0\Rascunho.pdb
+C:\Users\tongu\OneDrive\Área de Trabalho\PUC Atividades\(7101100) Algoritmos e Técnicas de Programação\Final ATP\Rascunho\obj\Debug\net8.0\Rascunho.genruntimeconfig.cache
+C:\Users\tongu\OneDrive\Área de Trabalho\PUC Atividades\(7101100) Algoritmos e Técnicas de Programação\Final ATP\Rascunho\obj\Debug\net8.0\ref\Rascunho.dll

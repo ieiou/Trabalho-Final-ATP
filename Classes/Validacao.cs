@@ -5,33 +5,9 @@ class Validacao{
         string email = pessoa.email;
         int idade = pessoa.idade;
         validaNome(nome);
-
     }
-     public static bool validaNome(string a){
+     public static bool validaNome(string _nome){
         bool teste = false;
-        int tam = 0;
-        for (int i = 0; i < a.Length; i++)
-        {
-            if (a[i] == ' ')
-            {
-                break;
-            }
-            tam++;
-        }
-        Console.WriteLine(a.Length);
-        if (true)
-        {
-            
-        }
-
-        return teste;
-     }
-     public static bool validaEmail(string b){
-        bool teste = false;
-
-        if(b.IndexOf('@') >= 3 && b.Length >= 7){
-            teste
-        }
 
         if (true)
         {
@@ -40,12 +16,21 @@ class Validacao{
 
         return teste;
      }
-     public static bool validaIdade(int c){
+     public static bool validaEmail(string _email){
+        bool teste = false;
+        string[] emailSplitado = _email.Split('@');
+        if(emailSplitado.Length > 1 && emailSplitado[0].Length >= 3 && emailSplitado[1].Length >= 3){
+            teste = true;
+        }
+
+        return teste;
+     }
+     public static bool validaIdade(int _idade){
         bool teste = false;
 
-        if (c > -1 && c < 151)
+        if (_idade > -1 && _idade < 151)
         {
-            return true;
+            teste = true;
         }
 
         return teste;

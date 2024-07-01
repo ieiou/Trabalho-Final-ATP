@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\YalleFerrariD2Cloud\\.nuget\\packages\\": {}
+    "C:\\Users\\tongu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YalleFerrariD2Cloud\\ATP\\Classes\\Classes.csproj",
-      "projectName": "Classes",
-      "projectPath": "C:\\Users\\YalleFerrariD2Cloud\\ATP\\Classes\\Classes.csproj",
-      "packagesPath": "C:\\Users\\YalleFerrariD2Cloud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YalleFerrariD2Cloud\\ATP\\Classes\\obj\\",
+      "projectUniqueName": "C:\\Users\\tongu\\OneDrive\\Área de Trabalho\\PUC Atividades\\(7101100) Algoritmos e Técnicas de Programação\\Final ATP\\Rascunho\\Rascunho.csproj",
+      "projectName": "Rascunho",
+      "projectPath": "C:\\Users\\tongu\\OneDrive\\Área de Trabalho\\PUC Atividades\\(7101100) Algoritmos e Técnicas de Programação\\Final ATP\\Rascunho\\Rascunho.csproj",
+      "packagesPath": "C:\\Users\\tongu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tongu\\OneDrive\\Área de Trabalho\\PUC Atividades\\(7101100) Algoritmos e Técnicas de Programação\\Final ATP\\Rascunho\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\YalleFerrariD2Cloud\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\tongu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
